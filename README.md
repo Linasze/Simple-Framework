@@ -4,7 +4,7 @@ PHP framework using MVC & OOP & PDO<br>
 <h2>Usage</h2>
 Create database<br>
 Add DB config params to app/config/config.php and change URLROOT address.<br>
-If your change ROOT folder "OOP-FrameWork" name , when edit public/.htaccess file.<br>
+If your change ROOT folder "Simple-Framework" name , when edit public/.htaccess file.<br>
 
 <h2>App Info</h2>
 Author
