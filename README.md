@@ -2,7 +2,7 @@
 PHP framework using MVC & OOP & PDO<br>
 
 <h2>Usage</h2>
-Create database<br>
+Create database and import the sql-dump/users.sql file<br>
 Add DB config params to app/config/config.php and change URLROOT address.<br>
 If your change ROOT folder "Simple-Framework" name , when edit app/config/config.php and public/.htaccess file.<br>
 
