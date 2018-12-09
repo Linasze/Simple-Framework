@@ -9,7 +9,7 @@ define('DB_NAME', '*******');
 define('APPROOT', dirname(dirname(__FILE__)));
 
 // URL Root
-define('URLROOT', 'http://localhost/OOP-FrameWork');
+define('URLROOT', 'http://localhost/Simple-Framework');
 
 //Site Name
 define('SITENAME', 'Simple MVC Framework');
